@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,shipping_date,status,total_amount,payment_method,billing_address,shipping_address,shipper_id
+1,181,2022-12-26,2023-06-16,Pending,7662.14,PayPal,"USNS Reynolds, FPO AE 42633","540 William Crescent, New Brandon, AR 71383",22
+2,57,2024-04-20,2024-01-01,Pending,2604.83,Cash,"56067 Zachary Isle Suite 763, New Tylerside, IN 55731","40212 Gonzalez Springs, Lopezborough, KY 78942",15
+3,198,2024-07-04,2023-09-25,Cancelled,1916.21,Credit Card,"0386 Joseph Skyway, Brandonhaven, MO 80972","228 Perez Club Apt. 531, Mosshaven, ME 61161",9
+4,103,2022-11-21,2024-02-23,Delivered,8321.74,Credit Card,"34285 Allison Trace Apt. 942, Lake Tracyview, AR 28873","PSC 4754, Box 1225, APO AP 78960",15
+5,88,2023-09-26,2023-01-28,Delivered,3115.84,Cash,"05064 Bradshaw Stravenue, West Christopherhaven, NY 70062","487 Gibson Loop Suite 575, North Kyleland, PA 54445",19
+6,14,2024-06-21,2023-07-05,Pending,8137,Credit Card,"882 Duran Rue Suite 332, Sullivanville, HI 09271","PSC 1493, Box 1144, APO AP 78516",20
+7,144,2023-08-07,2024-09-30,Delivered,6394.46,Bank Transfer,"7621 Samantha Radial Suite 260, Colemanstad, NC 05443","693 Christina Ranch, East Wendyview, SC 28227",24
+8,63,2023-06-02,2023-09-24,Delivered,4395.6,Bank Transfer,"5240 Lawson Burgs Apt. 232, New Justinhaven, NJ 15359","419 Lisa Square, Shawnside, MD 04397",5
+9,163,2023-08-27,2023-09-14,Cancelled,7272.43,Bank Transfer,"6852 Byrd Terrace Suite 875, Woodsbury, IL 58926","Unit 7204 Box 7997, DPO AP 95860",29
+10,101,2023-01-13,2024-08-07,Cancelled,9073.57,Bank Transfer,"766 Michelle Center, Jonesport, VT 92425","USNV Wall, FPO AE 83902",24
+11,152,2023-12-18,2024-04-21,Shipped,7583.58,Bank Transfer,"374 John Brook Suite 869, Jameschester, VT 97369","51320 Rodgers Streets Suite 077, Port Jakeland, AZ 64560",23
+12,34,2023-03-01,2023-08-02,Pending,4059.37,Bank Transfer,"8999 Juan Camp Suite 511, Johnsonville, SC 62381","49387 Katrina Village Apt. 579, South Kyleton, TN 62104",20
+13,60,2023-07-19,2024-08-12,Delivered,6883.22,Credit Card,"7436 Owens Center Apt. 404, North Gregory, NY 05253","5744 Myers Fork Apt. 376, Obrienmouth, CT 95980",11
+14,10,2023-04-14,2024-01-22,Delivered,5929.23,Bank Transfer,"96472 Garner Bypass Suite 144, New Sarahborough, NY 85512","33468 Gibson Corners Suite 810, Lake Tracy, CA 36831",7
+15,23,2024-06-21,2023-10-20,Delivered,2727.39,Cash,"697 Jay Stravenue, East Debraberg, DC 42320","51027 Collins Union Apt. 448, South Andrew, KS 92669",10
+16,174,2024-05-08,2023-06-12,Pending,8755.08,PayPal,"23586 Lee Field Suite 166, South Markfurt, TN 57392","979 Leon Drive, Wilsonside, MA 83596",19
+17,43,2024-04-18,2023-12-18,Delivered,6130.63,PayPal,"43182 Kathryn Way, Robertberg, VT 71398","1457 Foster Stream, Merrittchester, NJ 73589",10
+18,116,2023-07-25,2023-09-20,Pending,8780.38,Bank Transfer,"6502 Bowers Run Apt. 885, New Joshuaville, ND 79140","902 Sheryl Common Apt. 521, Laurenchester, LA 95663",14
+19,140,2023-10-02,2023-05-22,Pending,8321.7,PayPal,"2674 Timothy Springs, Mccarthyburgh, KS 60383","Unit 9219 Box 4147, DPO AA 94276",24
+20,90,2024-06-27,2023-03-25,Pending,8199.15,Cash,"45662 Reed Trail, Annaview, NE 00618","57340 Marcus Street Suite 539, Port Jennifer, MN 68509",19
+21,89,2023-12-02,2023-10-18,Shipped,1629.8,Bank Transfer,"07032 Lang Walks Apt. 329, South Amandachester, UT 98170","PSC 3125, Box 4688, APO AE 14146",2
+22,169,2024-04-12,2023-04-22,Pending,4808.45,Credit Card,"9406 Stone Ford Suite 091, Tiffanyview, NJ 31842","4456 Christine Fork Apt. 321, Leeview, MT 58557",30
+23,123,2023-07-18,2022-12-16,Pending,3317.54,Credit Card,"809 Eric Mountain Suite 704, Lake Dianefurt, AK 50227","669 Aimee Rapid, Andrewfurt, NJ 47140",12
+24,144,2024-09-20,2024-10-22,Cancelled,7225.84,Credit Card,"6070 Bell Manors, Browntown, WI 08319","1172 Sarah Village, Williamston, UT 03848",9
+25,193,2023-11-28,2022-11-28,Pending,803.48,PayPal,"84393 Darryl Stream, Lake Jonberg, NJ 83479","579 Jennings Plain, Port Jamieton, FL 46889",5
+26,20,2022-12-02,2023-02-06,Delivered,5350.11,Cash,"2399 Terrell Fork Suite 969, Karaport, MA 32188","975 Mary Key, East Rebecca, IL 46192",7
+27,89,2023-05-09,2024-01-27,Pending,9991.38,PayPal,"USNV Lin, FPO AA 54708","73633 Laura Forks Suite 692, Hernandezmouth, DC 42708",27
+28,162,2024-07-31,2023-01-22,Cancelled,3074.31,Bank Transfer,"7140 Roach Drive, South Marthaborough, IL 24175","382 Matthew Cliffs Suite 207, West Stephenport, NC 99499",14
+29,200,2024-06-18,2023-07-22,Cancelled,9619.85,Bank Transfer,"75962 Kaufman Plain, Torreschester, NV 69376","486 David Divide Apt. 466, Zacharyton, WV 35240",20
+30,129,2023-11-04,2022-12-26,Shipped,1887.34,Cash,"PSC 2724, Box 2461, APO AE 66034","91093 Lucas Green Suite 499, Christinaton, IN 26998",6
+31,23,2023-03-05,2024-09-19,Shipped,167.62,Credit Card,"PSC 1507, Box 6854, APO AE 14069","10451 Nicholas Park, Andersonfort, NC 50106",10
+32,134,2023-09-23,2024-08-14,Cancelled,2140.84,Credit Card,"106 Spencer Street, Kevinchester, CT 72854","34437 Robin Land, Port Melissaborough, KS 81162",2
+33,164,2022-11-06,2022-11-08,Cancelled,3390.78,Cash,"PSC 3105, Box 3828, APO AP 81332","91160 Cole Ridges, New Kendra, GA 93882",27
+34,38,2023-09-17,2023-11-19,Shipped,6712.68,PayPal,"36453 Kathryn Corner, Tonyafurt, HI 87511","515 Jim Parkway, West Davidton, SD 08010",12
+35,25,2024-08-11,2023-06-12,Pending,3189.22,Credit Card,"5098 Carolyn Valleys, Jaystad, NE 79457","28135 Bradley Cliffs Suite 822, Wallacebury, MT 96269",19
+36,157,2023-12-10,2023-10-03,Delivered,9225.15,Bank Transfer,"59740 Gonzales Mission, North Laura, IL 60945","769 Ford Walk, Warnertown, HI 14923",10
+37,193,2024-04-21,2024-10-13,Delivered,8269.99,Cash,"Unit 6596 Box 8279, DPO AA 98457","57211 Pamela Roads Apt. 739, West Erictown, HI 76004",10
+38,176,2024-04-02,2024-09-30,Pending,2572.53,Credit Card,"974 Stevenson Rue, Drewtown, PA 66356","1857 Gabriel Turnpike, West Sabrinafurt, OR 28680",14
+39,110,2023-07-13,2023-07-30,Delivered,1346.86,Credit Card,"9243 Smith Forks, Lake Mariaside, AL 44619","Unit 7424 Box 5682, DPO AP 47463",3
+40,101,2023-04-01,2023-05-27,Shipped,1634.69,Bank Transfer,"4001 Washington Way Suite 151, Juliefort, MS 80602","3938 Timothy Branch, East Tylerport, NV 92975",12
+41,124,2024-01-08,2024-07-29,Cancelled,4645.14,Credit Card,"4793 Carolyn Mountains Suite 435, Anthonyberg, MO 76303","91725 Jasmine Springs, Port Davidfort, UT 65758",1
+42,31,2022-11-10,2023-11-27,Shipped,9248.29,PayPal,"7639 Fernando Creek Apt. 317, North Barbara, GA 19726","357 Ashley Isle Suite 733, Turnerburgh, NH 51118",3
+43,86,2024-08-19,2024-05-19,Shipped,7019.16,Cash,"Unit 8676 Box 0311, DPO AA 26855","29950 Jeffrey Forge, West Robert, MO 06449",23
+44,193,2023-10-16,2023-10-28,Pending,2496.48,Credit Card,"014 Carol Manor, Andreaport, AZ 89226","78694 James Extension Apt. 980, Port Jeffrey, IA 91261",27
+45,64,2024-10-04,2024-07-14,Shipped,657.09,Credit Card,"3644 Rodriguez Village Apt. 645, East Kimberlyfort, NV 86537","1550 Matthews Court, Levineside, SD 79321",3
+46,97,2024-02-10,2023-09-07,Cancelled,202.02,Bank Transfer,"4276 Lee Key, Mclaughlintown, DE 26670","063 Mcfarland Street, Mccallside, ME 53854",22
+47,92,2023-06-27,2024-08-07,Cancelled,805.59,Bank Transfer,"92592 Hopkins Rapids, North Georgechester, WI 46026","0180 Victoria Unions, New Wandashire, DC 64529",28
+48,87,2023-04-12,2024-03-08,Cancelled,6479.29,Bank Transfer,"601 Sims Crossing, West Williamtown, DE 95840","33120 Justin Pines, South Rachelton, HI 48885",21
+49,94,2023-08-01,2024-06-26,Pending,6413.55,Bank Transfer,"USNV Hubbard, FPO AE 27523","821 Anderson Islands Apt. 570, North Shannonport, SD 28293",5
+50,13,2024-05-22,2023-01-10,Delivered,8380.69,PayPal,"7750 Aguilar Pike Apt. 787, Suttonland, OH 40747","6909 Edward Plains Suite 266, Aaronbury, DC 95054",25
+51,40,2024-09-09,2023-02-10,Cancelled,8692.53,Cash,"26381 Michael Square Suite 667, North Laurenside, DC 76370","8662 Good Circle Apt. 069, Jasonstad, VA 84760",19
+52,163,2023-09-10,2024-06-25,Pending,5326.79,Cash,"735 Dorsey Mission Apt. 936, Holmeston, CO 72621","9089 Austin Forges, Lake Kendra, RI 71781",30
+53,154,2024-03-18,2022-11-25,Shipped,7285.15,Cash,"Unit 2389 Box 9021, DPO AP 50739","639 Mills Viaduct Apt. 062, Mendozamouth, DC 78304",21
+54,105,2023-11-16,2023-06-23,Shipped,5495.9,Bank Transfer,"551 Julie Valley Apt. 780, Micheleview, MN 76253","57948 Anderson Hills, Williamston, OH 23593",9
+55,176,2022-12-12,2023-01-19,Cancelled,1148.63,PayPal,"954 Nguyen Route Apt. 102, South Timothyview, MN 85346","6067 Victor Via Suite 339, Higginsburgh, WV 52375",23
+56,22,2023-03-04,2023-08-05,Delivered,9518.73,Credit Card,"1400 Smith Shoals, Kelliside, CT 19625","26991 Kline Burg Apt. 816, North Angelica, MI 22423",4
+57,22,2023-05-13,2023-06-06,Pending,8444.34,Credit Card,"29327 Mercado Plaza Suite 323, Josephville, CA 58576","21414 Horton Creek, Adamstown, RI 94055",16
+58,96,2023-06-24,2023-10-18,Shipped,2784.18,Credit Card,"Unit 4861 Box 4706, DPO AP 15546","42424 Joseph Path Apt. 386, Ritaberg, SC 91180",26
+59,3,2024-10-01,2024-03-26,Shipped,2093.01,PayPal,"24383 Turner Mount Suite 400, Murphyville, OK 50692","87484 Kyle Locks, Jacksonmouth, KY 77481",28
+60,64,2024-10-07,2024-04-22,Pending,8202.76,Credit Card,"4311 Patrick Walks Apt. 517, Gardnerton, WY 85297","8380 Hunter Prairie Apt. 131, New Ashley, SD 55615",1
+61,16,2024-01-04,2023-10-04,Delivered,1803.43,Bank Transfer,"92225 Richardson Forest, Port Latoya, AK 18179","8431 Hays Loaf, New Amy, AR 90848",25
+62,59,2023-09-25,2023-01-26,Delivered,5924.5,Bank Transfer,"7117 Williams Forks, Juliachester, NM 94749","34712 Weber Parks Suite 154, New Gregoryberg, OR 40685",25
+63,108,2024-01-16,2023-05-16,Delivered,7438.55,Bank Transfer,"2955 Nicholas Mills, Lake Kimberlyshire, MI 06849","0421 Johnson Harbors Apt. 613, Knightburgh, OH 95436",22
+64,2,2023-08-20,2023-06-13,Cancelled,9894.09,Cash,"578 Lee Underpass, North Richardtown, ME 72443","5930 Green Road, Margaretberg, LA 63522",3
+65,147,2024-05-02,2023-02-20,Delivered,4568.51,Bank Transfer,"29120 Diana Village, Perezside, AK 31748","63925 Patrick Road Apt. 256, East Dylan, MO 48733",17
+66,174,2024-02-04,2023-03-03,Cancelled,466.36,Cash,"95698 Nichols Road, Millshaven, NV 78910","1408 Nicholas Courts Apt. 612, Davisstad, PA 38410",13
+67,72,2022-12-22,2024-07-12,Cancelled,410.3,Credit Card,"2428 Amanda Circles Suite 184, Richmondton, MD 05792","40590 Ryan Plaza Suite 514, Roseland, AZ 40192",23
+68,30,2024-04-11,2024-01-24,Cancelled,6014.31,Bank Transfer,"6332 Kelly Extensions Suite 091, Blackfurt, NE 93946","4730 John Lodge Suite 141, Lisaport, IA 12331",8
+69,71,2024-07-05,2023-05-14,Cancelled,1732.11,Credit Card,"Unit 4256 Box 6225, DPO AE 42858","22366 Davila Oval Suite 524, Hinesview, KS 07443",6
+70,23,2022-12-12,2023-01-18,Delivered,6749.43,Bank Transfer,"999 Amy Turnpike Apt. 868, Richardton, PA 30689","6668 Jeffrey Lights, Mistystad, MS 75428",20
+71,70,2023-05-28,2023-12-29,Cancelled,4600.26,PayPal,"803 Sandra Lane, New Deborahchester, NY 93171","PSC 3702, Box 5874, APO AA 62180",11
+72,40,2024-06-11,2022-12-30,Cancelled,9880.23,PayPal,"4283 Anderson Rest Apt. 355, Katrinabury, ID 62362","27164 Miles Forks, Boothbury, ID 60906",21
+73,81,2023-04-26,2023-10-23,Shipped,7582.42,Credit Card,"753 Debra Camp Suite 617, West Ronald, OR 86863","140 Espinoza Turnpike, Andrewview, PA 00571",13
+74,66,2023-06-07,2022-12-29,Delivered,5884.45,Credit Card,"665 Garrett Wall Suite 815, Melindamouth, UT 30190","432 Elizabeth Ville Suite 324, Port David, UT 17381",7
+75,87,2023-06-27,2022-12-12,Delivered,7315.82,Cash,"02489 Andrew Mountains, North Sabrina, VA 91283","5479 Robert Plaza, Annchester, AZ 34662",14
+76,22,2023-01-23,2024-06-01,Shipped,4303.86,Bank Transfer,"9724 Melinda Alley, South Timothy, NY 15235","86399 Sherry Mill Suite 234, New Matthewmouth, VA 94815",16
+77,120,2024-01-01,2023-10-02,Shipped,569.48,Cash,"3394 Flores Crescent Apt. 108, East Lori, VA 15611","4586 Whitney Harbor, West Kelly, NC 74947",22
+78,102,2023-11-22,2022-12-29,Cancelled,4142.43,PayPal,"342 Anderson Circles, North Kimberly, KS 17453","72600 Cox Glen Suite 538, Derekton, KY 36498",4
+79,140,2023-01-31,2023-12-21,Delivered,8307.55,PayPal,"6874 Michael Mews Suite 959, Sherryport, AR 45915","4007 Morton Forest Apt. 975, Lake Colleen, MN 83640",3
+80,29,2024-05-07,2024-05-18,Cancelled,7270.47,Bank Transfer,"0052 Elliott Forest Apt. 405, East Markmouth, MD 68119","049 Smith Brooks, Port Oliviaborough, KS 92033",10
+81,104,2023-02-15,2024-06-20,Pending,7769.8,Bank Transfer,"027 Kyle Hollow, South Charlesport, IN 30711","16946 Pamela Knoll, New Rebecca, NY 16568",15
+82,34,2023-11-03,2024-03-24,Shipped,7834.71,Credit Card,"PSC 4899, Box 7099, APO AP 96193","60022 Patrick Isle Apt. 257, Lake Richard, MS 66829",22
+83,193,2023-07-08,2024-09-05,Shipped,2183.22,Credit Card,"624 Stacy Trail Apt. 722, Matthewmouth, DE 17515","349 Kristen Meadow, Stevenfurt, OR 22462",18
+84,175,2024-07-30,2024-05-03,Cancelled,5835.57,Cash,"306 Tammy Road Apt. 312, South Christopher, NC 83832","856 Walker Dale, West Nicole, OH 08163",18
+85,41,2024-06-30,2023-07-15,Pending,520.14,Cash,"9146 Richard Club, East Samantha, CO 17114","4020 Miller Spurs Suite 855, Sanchezfurt, WI 02757",28
+86,56,2022-12-27,2024-09-06,Cancelled,2838.09,PayPal,"3387 Jimenez Roads Apt. 667, East Hannah, MI 98196","79662 Green Hollow, Lake Matthewview, AR 60354",2
+87,60,2023-04-09,2023-11-05,Cancelled,7251.8,PayPal,"Unit 9569 Box 0643, DPO AA 90776","70599 Davidson Rapids, West Michellehaven, KY 22485",11
+88,61,2024-09-01,2023-10-05,Delivered,226.91,Credit Card,"5509 Arthur Spurs Apt. 698, East Emily, OR 25535","003 Ramos Plains, New Anthonyfort, UT 64219",10
+89,13,2023-04-26,2024-01-11,Cancelled,5542.45,Cash,"7148 Steven Crest Suite 093, Atkinschester, OK 42646","5113 Timothy Cape Apt. 490, Port Andreachester, MT 05187",22
+90,46,2022-11-16,2024-10-30,Shipped,2915.07,Cash,"58302 Melissa Neck Apt. 989, West Sarah, DC 94413","0701 Alyssa Junctions Suite 142, Laurenchester, CA 23414",13
+91,190,2023-08-29,2022-12-21,Pending,3384.24,PayPal,"19344 Rhodes Crescent Apt. 582, North Kimland, VA 77160","0684 Macdonald Brooks Apt. 318, East Davidside, NH 84231",4
+92,7,2023-03-21,2024-10-03,Pending,4555.35,Cash,"6149 Becker Lane Suite 837, Myersport, GA 35782","0064 Mckenzie Crescent Apt. 283, South Grace, CT 94793",2
+93,181,2023-08-28,2024-10-31,Shipped,3395.79,Cash,"49973 Rebecca Lane Suite 948, Rosemouth, IA 57281","525 Franco Mews, West Amyshire, SD 79149",18
+94,115,2024-04-18,2023-07-11,Shipped,2328.56,PayPal,"4713 Jason Station Suite 840, South Jack, CA 45200","88919 Andrew Key Apt. 885, Lake Christy, CO 70252",1
+95,103,2024-03-17,2023-08-17,Cancelled,5493.99,Bank Transfer,"40155 Jones Course, West Lindseyburgh, NM 18741","96812 Mckinney Landing, Kevinfurt, IA 73067",25
+96,162,2023-07-21,2023-03-14,Shipped,8150.43,Bank Transfer,"Unit 2506 Box 0874, DPO AA 91422","9982 Dawn Curve Apt. 300, North Melissatown, GA 59926",12
+97,142,2024-06-23,2023-03-11,Cancelled,6087.75,Bank Transfer,"214 Mendez Motorway, South Julia, TN 69118","072 Gill Viaduct Apt. 670, Kelleyfort, MO 93060",15
+98,166,2024-03-27,2023-11-15,Delivered,7129.33,Bank Transfer,"246 Allen Meadow Apt. 917, Cynthiachester, GA 22063","Unit 2057 Box 4992, DPO AE 36855",14
+99,197,2024-09-14,2024-02-09,Cancelled,6727.02,Bank Transfer,"94174 Gamble Drive, Scotthaven, AK 25984","188 Ruben Stravenue Suite 124, Deborahfurt, TN 96319",18
+100,27,2023-12-21,2024-10-10,Cancelled,6385.02,Cash,"2421 Gilmore Mission, Derekstad, MS 29769","24437 Margaret Ridges, Pamelatown, KS 40951",19
+101,37,2022-12-08,2024-03-16,Delivered,8026.65,Bank Transfer,"0220 Guerrero Mission, Port Suzannechester, MD 91896","430 Nichole Drives Suite 536, Callahanton, TN 34536",3
+102,16,2023-03-05,2024-05-18,Shipped,4960.73,Cash,"737 Derrick Coves Apt. 545, Hansenland, NM 88206","Unit 3792 Box 4425, DPO AE 78825",16
+103,109,2024-02-04,2024-11-02,Cancelled,5658.63,PayPal,"06600 Madison View, Port Ronaldtown, AZ 62697","4683 Swanson Groves Suite 826, North John, AZ 25151",7
+104,147,2023-12-20,2024-09-11,Pending,2854.61,Credit Card,"387 Evans Fall, Watsonland, CO 14210","854 Brennan Road, Ashleyville, WV 18674",30
+105,56,2023-05-21,2023-11-16,Pending,2186.46,Credit Card,"059 William Port Apt. 236, Hartmanstad, VT 34764","69071 Perez Gardens, Port Paulland, MA 48800",23
+106,162,2023-05-06,2023-08-29,Shipped,9484.67,Cash,"3747 James Forks Apt. 542, New Jesusside, CO 18954","3184 Thomas Mountain Apt. 411, Jillmouth, PA 37743",14
+107,192,2024-08-19,2024-02-02,Delivered,1188.34,Cash,"081 Xavier Road Suite 770, South David, CT 67467","8647 Reyes Springs, Lake Tylerhaven, LA 01983",24
+108,65,2023-08-29,2023-07-04,Pending,7083.62,Credit Card,"1675 Ward Expressway Suite 050, Lake Yvonnefurt, MN 57911","Unit 2801 Box 8682, DPO AE 84660",17
+109,175,2024-10-28,2023-02-01,Pending,548.18,PayPal,"20852 Peterson Corners Apt. 357, Fullerport, OK 13083","52891 James Crescent, Lake Robin, IA 88316",23
+110,156,2023-09-11,2023-12-18,Delivered,2592.63,PayPal,"5290 Clark Valley Suite 292, Juliemouth, FL 50664","85257 James Pass Apt. 163, South Donnaside, NM 77166",18
+111,85,2023-07-01,2023-04-05,Pending,4680.31,PayPal,"8167 Matthew Way, Brianstad, NE 85729","4074 Maria Ramp, North Amber, MA 70935",21
+112,43,2024-07-26,2024-01-25,Shipped,6497.53,Credit Card,"9399 Dyer Passage Apt. 629, Scottbury, IA 25773","3928 Andrew Neck Suite 066, West Brianland, ND 39910",27
+113,180,2023-03-30,2024-01-07,Delivered,1386.79,Bank Transfer,"63906 Thomas Square, Joshuaview, KY 71172","05873 Corey River, South George, GA 00754",2
+114,150,2023-06-11,2023-05-31,Delivered,5305.92,Cash,"160 Amy Track Suite 239, Port Reneechester, CO 14375","5829 Alexander Shoal Suite 951, East Ryanshire, CO 15528",30
+115,26,2024-05-08,2023-04-20,Pending,6577.83,Credit Card,"6064 John Gateway, Lake Wendy, KY 04816","USS Zamora, FPO AE 85725",28
+116,77,2022-11-16,2024-09-11,Shipped,3906.54,Bank Transfer,"6591 Fernando Mount Apt. 197, Mercadoside, MA 43911","7036 Johnson Grove Apt. 158, Wrightport, IL 47920",12
+117,188,2023-09-13,2023-02-15,Shipped,7087.81,Credit Card,"6435 Adams Skyway Apt. 321, Lake Johnshire, KY 18480","335 Jean Lodge Apt. 088, Lake Anthony, MS 54325",17
+118,69,2023-07-12,2024-03-16,Pending,5612.16,Cash,"3999 Smith Springs, West Joseph, DC 59984","6344 Pitts Lights, Bradyview, AR 89361",18
+119,78,2023-12-25,2023-07-26,Delivered,6936.17,Bank Transfer,"54581 Adam Summit, Matthewborough, MA 95098","2097 Donna Course, New Tiffany, KY 13637",12
+120,154,2024-08-04,2023-01-14,Delivered,596.33,Credit Card,"6190 Chad Loaf Suite 925, Wilsonhaven, KS 07994","231 Leonard Viaduct, Contrerasberg, ME 09846",15
+121,53,2024-03-29,2023-02-22,Cancelled,5553.48,PayPal,"40480 Ryan Prairie, Meganport, MT 29246","861 Patricia Islands Suite 141, East Dawn, MA 88134",1
+122,182,2024-09-18,2023-01-22,Pending,6722.25,Bank Transfer,"68977 Dixon Locks, Kellyfurt, GA 32042","91667 Johnson Burgs Apt. 755, New Raymondstad, CA 58379",3
+123,116,2024-03-09,2023-01-12,Shipped,757.45,Cash,"PSC 3022, Box 6558, APO AE 96019","495 Mcclain Village, Kimberlyville, SD 73745",27
+124,179,2023-10-01,2023-03-05,Pending,2475.83,Cash,"621 Parker Port, West Susanmouth, MD 56614","20411 Audrey Hills Suite 528, North Katherine, KS 73883",27
+125,194,2024-01-29,2024-06-18,Shipped,7398.91,PayPal,"0274 Katrina Fort Apt. 817, Millerfurt, TN 90437","Unit 2489 Box 9336, DPO AP 15206",18
+126,97,2023-07-05,2024-09-02,Shipped,1277.22,Bank Transfer,"183 Lee Camp Apt. 453, Smithland, RI 25023","72455 Amanda Corners, Haroldmouth, WA 71465",8
+127,194,2023-09-14,2024-05-22,Shipped,4937.03,Credit Card,"Unit 3845 Box 6559, DPO AA 13356","6428 Lee Flat Suite 565, West Amanda, WI 59706",13
+128,65,2023-10-11,2023-07-07,Delivered,8190.76,PayPal,"6496 Shaw Oval, Woodardport, PA 26596","PSC 9007, Box 8340, APO AA 15284",18
+129,78,2024-02-14,2023-09-18,Shipped,9401.68,Cash,"9165 Charles Islands, East Jeffreyville, PA 41525","76647 Johnson Estate Suite 597, Walshchester, ID 64065",23
+130,50,2023-07-18,2024-04-08,Shipped,9620.99,Cash,"13209 Little Mews Suite 347, Michaelhaven, NC 41998","6696 Stephanie Trace Apt. 072, Adamberg, NY 44656",5
+131,109,2023-01-19,2024-06-12,Pending,486.42,PayPal,"145 Wall Mission Suite 757, Edwinberg, KS 68311","44406 Thompson Ferry, Sullivanfurt, DE 65297",10
+132,174,2023-07-20,2024-04-07,Pending,8574.4,PayPal,"32920 Anthony Union Apt. 625, Lake Robert, MD 93567","704 Reyes Key, North Amberberg, WY 80590",8
+133,38,2023-12-12,2023-11-24,Shipped,1574.23,Credit Card,"Unit 4620 Box 5713, DPO AA 89348","649 Susan Harbors Suite 527, North Kathryn, IA 27611",28
+134,3,2023-07-04,2023-08-08,Pending,6241.89,PayPal,"92373 Lisa Valley Suite 776, Patrickton, MD 49223","PSC 8177, Box 5015, APO AA 88112",8
+135,174,2022-12-25,2024-04-16,Delivered,2298.64,Credit Card,"79774 Smith Underpass Suite 658, Amandafort, GA 92877","15529 Christopher Valley, Bryanchester, KS 14154",17
+136,175,2023-06-23,2023-07-30,Pending,7987.2,Cash,"6959 Jeffrey Fords Suite 091, South Nathan, OH 87099","500 Deborah Prairie Suite 961, Port Travisfort, TN 78833",23
+137,149,2023-07-16,2023-07-09,Pending,6202.56,PayPal,"12893 Howe Mall Suite 452, Lisatown, RI 56132","PSC 9997, Box 4213, APO AA 45173",30
+138,161,2024-02-14,2023-11-21,Delivered,4032.04,Credit Card,"8296 Travis Field, Shawnamouth, GA 32937","1774 Anthony Centers Suite 927, North Markburgh, OR 31083",20
+139,86,2023-05-05,2023-07-05,Pending,9080.89,Cash,"937 Katherine Inlet Apt. 139, East Felicia, IA 44296","1404 Sutton Trace, Wheelerburgh, FL 38657",16
+140,108,2022-11-28,2022-12-22,Cancelled,5683.7,Bank Transfer,"7453 Parker Highway Suite 072, Amybury, IA 26878","226 Wayne Mission Suite 233, Kimberlyborough, CT 37058",20
+141,155,2023-01-10,2023-04-04,Cancelled,5842.84,Bank Transfer,"0807 Derek Mission, Jessicashire, LA 91117","43098 Jacob Passage, Holdenfort, AZ 92553",19
+142,146,2023-02-18,2023-07-25,Cancelled,2313.81,PayPal,"9379 Sanders Meadow Apt. 016, Port Pamela, CO 14380","53696 April Manor, West Ashley, KS 40092",13
+143,57,2024-03-05,2022-11-05,Shipped,1632.9,Bank Transfer,"61454 Natalie Dale Suite 673, West Lori, MO 62908","281 Crystal Path, East Jeremiahshire, MD 22002",30
+144,55,2023-09-15,2023-07-29,Pending,6710.23,PayPal,"82777 Wallace Locks Suite 928, Heatherview, IN 60395","3562 Fisher Mountain Apt. 366, Comptonhaven, NH 10721",22
+145,25,2023-11-09,2024-02-08,Cancelled,5982.28,PayPal,"98343 Brown Junction Suite 086, South Kaitlinport, NE 60586","012 Adams Viaduct Apt. 640, North Jessica, OH 79110",11
+146,58,2023-11-23,2022-12-09,Cancelled,3296.67,Cash,"823 Zachary Ridge Suite 652, Alejandrobury, AK 84347","2737 Ortiz Port, Stephanietown, ME 46053",3
+147,13,2024-03-05,2023-10-07,Shipped,2752.91,Bank Transfer,"PSC 3651, Box 3116, APO AP 48400","0310 Graham Lights, West Bradleyton, LA 01687",22
+148,78,2023-01-05,2024-06-30,Cancelled,3692.89,Bank Transfer,"349 Adams Lakes, Johnsonfurt, WV 35592","28658 Mary Ports, Scottbury, WA 06040",7
+149,39,2023-09-02,2022-11-04,Pending,2711.17,Credit Card,"55515 Sutton Skyway Apt. 937, South Jeffville, NY 32140","83108 Tammy Throughway Suite 063, North Christopher, UT 27003",8
+150,130,2023-12-10,2024-10-30,Delivered,461.02,Bank Transfer,"1746 Day Run Apt. 781, Kevinchester, NJ 65207","7343 Cooper Motorway Suite 773, Dillonville, AL 65451",26
+151,60,2024-03-23,2023-03-07,Cancelled,5454.86,Credit Card,"32299 Donna Squares Apt. 931, Garciashire, IL 23663","3990 Goodwin Branch Apt. 100, West Jessicashire, KS 83434",3
+152,27,2023-06-05,2023-05-08,Delivered,3223.02,PayPal,"003 Bullock Ways, Rodgersside, MN 46398","352 Lambert Rest, Port Andrea, NM 60177",28
+153,154,2023-06-25,2023-03-12,Cancelled,4837.34,PayPal,"599 David Well Apt. 887, Gregorytown, DC 94189","5448 Walsh Land, East Joseph, CT 11576",21
+154,27,2024-04-09,2022-11-18,Shipped,970.41,Cash,"USCGC Webb, FPO AA 82943","591 Johnson Mills, Cohenland, VT 74351",17
+155,6,2024-06-06,2023-12-20,Cancelled,1230.36,Credit Card,"617 Megan Ports, Moralesland, DE 16859","PSC 9134, Box 4565, APO AA 56570",21
+156,129,2023-08-02,2023-06-26,Pending,2043.75,PayPal,"6980 Long Land Suite 600, Bethfort, ME 86424","76153 Joseph Plaza, Mitchellview, VA 55279",1
+157,198,2023-06-01,2024-08-19,Shipped,2997.07,PayPal,"Unit 6752 Box 7367, DPO AE 26338","6642 Padilla Keys Suite 898, Medinaland, IL 26889",9
+158,154,2022-11-24,2023-07-22,Delivered,4700.31,Credit Card,"USNV Young, FPO AE 83065","1839 Dennis Village Apt. 570, Derekville, MT 81326",25
+159,72,2024-10-12,2023-03-07,Cancelled,8131.23,Bank Transfer,"3085 Johnston Ford Apt. 361, East Bryan, WV 01158","6474 Ward Land Apt. 104, South Lacey, IL 84100",5
+160,40,2023-04-25,2023-05-14,Delivered,6601.56,PayPal,"PSC 1205, Box 3424, APO AA 89160","427 Williams Cliff Suite 081, North Zachary, MS 38696",22
+161,196,2023-02-27,2023-05-19,Cancelled,6982.19,Cash,"88628 Green Hill Suite 390, Keithland, WY 95896","8391 Linda Fords Suite 958, Kelleyland, MD 94186",28
+162,4,2024-02-18,2024-06-30,Cancelled,8173.4,Credit Card,"14649 Smith Valley Suite 941, Williamhaven, NC 49329","7248 Clark Motorway, New Michaelburgh, NM 52627",5
+163,110,2023-04-01,2024-02-08,Shipped,9424.73,Cash,"976 Scott Lock, West Christina, AL 85924","PSC 7266, Box 3198, APO AE 77349",4
+164,111,2023-12-24,2024-04-07,Shipped,4934.31,Credit Card,"77691 Stephanie Shoal, New Kellyborough, NY 07189","3475 Gilbert Hill, Jasminfort, DE 86784",14
+165,103,2024-10-28,2023-04-25,Shipped,7150.03,Bank Transfer,"13535 Claire Mews, Lewistown, KY 70371","610 Lisa Village, East Jeffrey, NH 33001",18
+166,177,2022-11-16,2024-03-30,Cancelled,1069.36,PayPal,"7387 Paul Summit Apt. 806, Katrinafurt, GA 76546","6805 Jessica Shore Suite 608, Patrickborough, MN 04460",21
+167,63,2023-03-25,2024-07-10,Delivered,998.03,PayPal,"Unit 9356 Box 3298, DPO AA 93563","88987 Green Walk Suite 174, Johnsonborough, SC 18575",10
+168,161,2023-06-26,2023-10-21,Shipped,4871.71,PayPal,"97892 Barbara Estate, Caitlinbury, CT 19414","6354 Hicks Spring Suite 722, Lake Sandraport, GA 13000",30
+169,8,2024-08-04,2023-05-29,Delivered,2095.56,Cash,"27211 Darren Stream, Perkinsville, DE 45578","Unit 1412 Box 4109, DPO AE 17338",12
+170,136,2024-09-05,2023-05-20,Delivered,2969.13,PayPal,"766 Abigail Street, Lake Vanessachester, CT 86066","794 Nguyen Alley, North Michael, PA 83514",13
+171,73,2024-09-09,2024-10-14,Pending,7121.99,Bank Transfer,"0635 Connie Square, South Ashleystad, AR 55401","3298 Abigail Extension Suite 909, Port Sharonville, OK 05912",12
+172,146,2023-02-17,2024-02-03,Shipped,9808.91,Cash,"384 Huber Plaza Suite 368, South Patriciaport, NJ 41406","4099 Albert Street Suite 875, East Kennethview, SC 52010",23
+173,68,2022-11-27,2024-07-09,Cancelled,9117.48,Cash,"15545 Ashley Hill Apt. 302, New Alexisshire, WA 78003","5171 Richardson Parkways, Ramirezburgh, CO 82776",3
+174,36,2023-04-07,2023-04-06,Delivered,385.68,PayPal,"394 Robin Springs, Darrellburgh, IL 31229","46556 Bailey Lock Apt. 817, Jamesstad, KS 99643",3
+175,48,2023-06-02,2024-04-08,Delivered,6454.74,Credit Card,"PSC 5318, Box 4907, APO AE 00959","53817 Robert Roads, East Gregory, GA 15399",14
+176,111,2024-08-05,2024-01-03,Cancelled,4487.3,PayPal,"922 Felicia Parks Apt. 496, Mejiahaven, MO 96545","782 Sanders Ville Apt. 147, Deniseport, CT 71750",11
+177,83,2024-05-10,2024-05-28,Cancelled,393.08,Bank Transfer,"65839 Arroyo Ridge Suite 122, Morganfort, AZ 71555","6863 Joseph Club Suite 949, East Susanborough, NV 71096",2
+178,15,2023-04-21,2023-03-07,Shipped,3948.97,PayPal,"1341 Frank Wall, Harrisport, DE 64895","1660 Bruce Passage Suite 934, West Briannaburgh, HI 63604",30
+179,76,2023-06-16,2023-03-16,Pending,874.49,Credit Card,"190 Pruitt Mountains, Ericfort, VT 40447","96004 Anderson Meadows, Nicholasmouth, TN 85489",4
+180,150,2023-03-26,2024-06-12,Cancelled,652.7,Credit Card,"USCGC Houston, FPO AP 05162","Unit 6410 Box 6437, DPO AA 97400",22
+181,100,2023-05-01,2023-04-28,Cancelled,3849.74,Credit Card,"4567 Nathan Light Apt. 025, New Brandon, CA 84831","USS Adams, FPO AA 64089",8
+182,49,2024-10-14,2023-01-15,Pending,9694.35,Bank Transfer,"5546 Andrew Road, South Madisonbury, MD 64799","8053 Barbara Fork, Ellischester, CA 70085",27
+183,138,2023-11-15,2023-03-06,Shipped,3806.11,Bank Transfer,"9589 Sally Bridge Suite 880, New Catherine, VA 21583","887 Jody Port Apt. 302, Freemanton, TN 46837",21
+184,112,2023-03-29,2024-08-30,Pending,339.66,Credit Card,"561 David Views Suite 851, Longbury, GA 69429","220 Kelly Ridges Apt. 701, Port Andrewborough, VT 16152",16
+185,11,2023-08-25,2023-12-12,Pending,3973.44,PayPal,"0952 Ramirez Corner, Jeffreyton, RI 23362","205 Mitchell Road, Lake Frankchester, MA 51335",18
+186,38,2023-02-19,2024-06-25,Cancelled,1305.07,Bank Transfer,"96856 Sanchez Forest Apt. 857, Samuelchester, TX 45547","4242 Johnson Road Apt. 987, Lake Peter, CA 17336",15
+187,40,2024-05-04,2023-07-18,Delivered,3785.96,PayPal,"9910 Burton Rapid Apt. 156, New Shannon, HI 99009","01872 Rice Loaf Apt. 033, Jasonberg, LA 30436",2
+188,125,2022-12-01,2023-12-08,Pending,5703.39,PayPal,"197 Garcia Grove, Nancyfurt, WY 55290","553 Williams Curve, Angelaland, WA 14545",7
+189,62,2022-11-13,2024-06-10,Delivered,7137.38,Cash,"20848 Johnston Shoals Apt. 519, Guzmanburgh, SD 17225","706 Nathan Pass, Robertport, RI 56018",3
+190,109,2024-03-02,2022-12-09,Cancelled,3277.4,Cash,"6396 Cooper Cliff, South Jessica, OH 00512","834 Thomas Burg Suite 729, Allisonport, VA 78563",1
+191,170,2024-06-12,2023-10-14,Pending,3765.76,Bank Transfer,"94917 Solis Lake, New Angelaside, OK 56842","8266 Valerie Ways Apt. 844, West Brianfurt, FL 82857",8
+192,34,2024-05-03,2022-12-05,Cancelled,2861.38,Bank Transfer,"USNV King, FPO AA 98519","36727 Dawn Estates, Port Franceston, AR 27963",20
+193,80,2023-04-12,2023-11-02,Delivered,157.16,Credit Card,"Unit 5261 Box 9779, DPO AE 27713","42414 Jennifer Lights Suite 009, South Mckenzie, MI 37861",24
+194,12,2023-08-17,2024-04-27,Cancelled,9420.6,Bank Transfer,"154 Stevens Throughway Apt. 564, Port Kellichester, IN 37153","7671 Kent Groves Suite 768, Gutierrezbury, IN 42085",14
+195,165,2023-02-05,2023-05-25,Delivered,8998.96,Cash,"25325 Hart Dam Suite 375, Donaldborough, MA 15235","809 Moore Court, Taylorland, IA 16280",28
+196,31,2022-11-04,2024-03-23,Delivered,6300.33,Cash,"1131 Montgomery Views, Lake Christopher, AZ 42008","34093 Ronald Track, Lake Heather, VA 83901",18
+197,184,2023-05-15,2024-10-20,Delivered,2763.79,Credit Card,"40992 Hampton Fields, South Tammyshire, WV 15256","999 Bianca Divide Apt. 111, South Wendy, VT 87276",21
+198,105,2024-03-25,2023-04-25,Cancelled,5545.91,Bank Transfer,"2363 Edwin Passage, North Morganton, AL 61821","Unit 3883 Box 6177, DPO AP 69531",9
+199,173,2023-03-22,2023-02-23,Cancelled,1512.28,Bank Transfer,"12961 Jennifer Cape Apt. 492, Margaretchester, TX 77453","PSC 1589, Box 6424, APO AP 87777",3
+200,170,2024-03-14,2024-04-28,Delivered,992.06,Bank Transfer,"PSC 1533, Box 0985, APO AE 20816","70903 Vincent Via, Amandaview, FL 79358",16
